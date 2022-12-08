@@ -1,0 +1,15 @@
+C:\Users\ThinkPad\Seminar6\SEM8task54\obj\Debug\net6.0\SEM8task54.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Seminar6\SEM8task54\obj\Debug\net6.0\SEM8task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ThinkPad\Seminar6\SEM8task54\obj\Debug\net6.0\SEM8task54.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\Seminar6\SEM8task54\obj\Debug\net6.0\SEM8task54.AssemblyInfo.cs
+C:\Users\ThinkPad\Seminar6\SEM8task54\obj\Debug\net6.0\SEM8task54.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Seminar6\SEM8task54\bin\Debug\net6.0\SEM8task54.exe
+C:\Users\ThinkPad\Seminar6\SEM8task54\bin\Debug\net6.0\SEM8task54.deps.json
+C:\Users\ThinkPad\Seminar6\SEM8task54\bin\Debug\net6.0\SEM8task54.runtimeconfig.json
+C:\Users\ThinkPad\Seminar6\SEM8task54\bin\Debug\net6.0\SEM8task54.dll
+C:\Users\ThinkPad\Seminar6\SEM8task54\bin\Debug\net6.0\SEM8task54.pdb
+C:\Users\ThinkPad\Seminar6\SEM8task54\obj\Debug\net6.0\SEM8task54.dll
+C:\Users\ThinkPad\Seminar6\SEM8task54\obj\Debug\net6.0\refint\SEM8task54.dll
+C:\Users\ThinkPad\Seminar6\SEM8task54\obj\Debug\net6.0\SEM8task54.pdb
+C:\Users\ThinkPad\Seminar6\SEM8task54\obj\Debug\net6.0\SEM8task54.genruntimeconfig.cache
+C:\Users\ThinkPad\Seminar6\SEM8task54\obj\Debug\net6.0\ref\SEM8task54.dll
